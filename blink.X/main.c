@@ -2,12 +2,10 @@
  * File:   main.c
  * Author: 21192694
  *
- * Created on 12 de Fevereiro de 2021, 15:44
+ * Created on 12 de Fevereiro de 2021, 16:01
  */
 
-
 #include <xc.h>
-#include "config.h"
 
 void main(void) 
 {
