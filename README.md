@@ -5,10 +5,10 @@ A programação desenvolvida tem como principal função de acender e apagar um 
 
 Utilizando-se as seguintes ferramentas:
 
-*MPLAB-X;
+* MPLAB-X;
 
-*Simulado XC8;
+* Simulado XC8;
 
-*SimulIDE;
+* SimulIDE;
 
 ##  Circuito
