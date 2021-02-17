@@ -12,3 +12,4 @@ Utilizando-se as seguintes ferramentas:
 * SimulIDE;
 
 ##  Circuito
+![Circuito (Blink)](https://github.com/Gabriel-Ruanes/blink/blob/master/Imagem_circuito.png)
