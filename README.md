@@ -13,3 +13,12 @@ Utilizando-se as seguintes ferramentas:
 
 ##  Circuito
 ![Circuito (Blink)](https://github.com/Gabriel-Ruanes/blink/blob/master/Imagem_circuito.png)
+##  Componentes:
+
+* PIC16F887;
+
+* LED Vermelho;
+
+* Resistor 150 ohm;
+
+* Ground (terra);
